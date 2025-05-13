@@ -19,7 +19,7 @@ This is a Python-based AI chatbot designed to assist users with common e-commerc
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/ecommerce-chatbot.git
+   git clone https://github.com/Sidhuuu18/ecommerce-chatbot.git
    cd ecommerce-chatbot
 License
 
@@ -29,5 +29,5 @@ Author
 
 Sidarth
 B.E. Computer Science and Engineering
-GitHub: @sidhuuu18
+GitHub: @Sidhuuu18
    
